@@ -31,7 +31,3 @@ The training dataset used in this project is the "aboonaji/wiki_medical_terms_ll
 [model used](https://huggingface.co/aboonaji/llama2finetune-v2)       
 [original dataset](https://huggingface.co/datasets/gamino/wiki_medical_terms)      
 [formatted dataset](https://huggingface.co/datasets/aboonaji/wiki_medical_terms_llam2_format?row=0)       
-
-Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
-## Author
-## Arnold Cobo
